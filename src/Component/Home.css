@@ -1,0 +1,40 @@
+
+body {
+    background: hsl(0deg 0% 94%);
+}
+
+.Row{
+    margin-top: 60px;
+    
+width: 100%;
+height: 500px;
+}
+
+.Column{
+    float:left;
+    width:500px;
+}
+.Pragh{
+
+    justify-items: center;
+    margin-top: 35%;
+}
+
+#leftbox { 
+    float:left;  
+    width:40%; 
+    height:600px;
+} 
+
+#rightbox{ 
+    float: right;
+    
+    width:50%; 
+    height:500px;
+position: relative;
+}
+
+.Button{
+    background-color: purple;
+    color: white;
+}

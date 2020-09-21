@@ -1,0 +1,23 @@
+.ContainerAbout{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    margin-top: 200px;
+    
+    margin-top: 10%;
+}
+
+#leftAboutBox{
+float: left;
+
+margin-left: 10%;
+width: 30%;
+height:400px; 
+}
+
+#rightAboutBox{
+float: right;
+width:50%; 
+height:500px;
+
+}

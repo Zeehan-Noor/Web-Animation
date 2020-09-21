@@ -1,0 +1,30 @@
+body{
+    background: hsl(0deg 0% 94%);
+}
+
+.ContactContainer{
+    width: 100%;
+    height: 700px;
+    
+margin-top: 10%;}
+
+#leftContactbox { 
+    margin-top: 15%;
+    float:left;  
+    width:50%; 
+    
+    height:600px;
+} 
+
+#rightContactbox{ 
+    float: right;
+    
+    margin-top: 15%;  
+    width:50%; 
+    height:500px;
+}
+
+.Button{
+    background-color: purple;
+    color: white;
+}
